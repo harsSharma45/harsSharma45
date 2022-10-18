@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @harsSharma45
+- 👋 Hi, I’m Harsh Sharma
 - 👀 I’m interested in machine learning and deep learning
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me www.linkedin.com/in/harsh-sharma-848560230
 
 <!---
