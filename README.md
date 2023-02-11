@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harsh Sharma</h1>
 <h3 align="center">"Honing coding skills, competitive programming & web dev.</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.tenor.com%2FNOYF3f82b_gAAAAC%2Fprogrammer.gif&imgrefurl=https%3A%2F%2Ftenor.com%2Fview%2Fprogrammer-gif-19019116&tbnid=2JKeF76tTWe0TM&vet=12ahUKEwi2hPiu0Yz9AhVljNgFHYitBAUQMygEegUIARCCAg..i&docid=SplG_KW7Cwij1M&w=498&h=312&q=gif%20coding&hl=en&ved=2ahUKEwi2hPiu0Yz9AhVljNgFHYitBAUQMygEegUIARCCAg">
+<img align="right" alt="coding" width="400" src="https://tenor.com/view/xero-code-code-xer0-code_xer0-code-xero-gif-24040429">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harssharma45&label=Profile%20views&color=0e75b6&style=flat" alt="harssharma45" /> </p>
 
 - 🌱 I’m currently learning **Semantic UI & Svelte**
@@ -22,4 +22,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harssharma45&show_icons=true&locale=en" alt="harssharma45" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harssharma45&" alt="harssharma45" /></p>
-
+[![An image of @harssharma45's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harssharma45)](https://holopin.io/@harssharma45)
