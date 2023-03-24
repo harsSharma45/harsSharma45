@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://tenor.com/view/xero-code-code-xer0-code_xer0-code-xero-gif-24040429">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harssharma45&label=Profile%20views&color=0e75b6&style=flat" alt="harssharma45" /> </p>
 
-- 🌱 I’m currently learning **Semantic UI & Svelte**
+- 🌱 I’m currently learning Webdevelopment
 
 - 📫 How to reach me **https://www.linkedin.com/in/harsh-sharma-848560230/**
 
