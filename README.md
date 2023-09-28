@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src=["https://tenor.com/view/xero-code-code-xer0-code_xer0-code-xero-gif-24040429"](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcode-coffee-office-work-gif-14643860&psig=AOvVaw26yC-8ooI87Ja-xW2r-rSs&ust=1694168156769000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIDE77CimIEDFQAAAAAdAAAAABAE)>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harssharma45&label=Profile%20views&color=0e75b6&style=flat" alt="harssharma45" /> </p>
 
-- 🌱 I’m currently learning Webdevelopment
+- 🌱 I’m currently learning React
 
 - 📫 How to reach me **https://www.linkedin.com/in/harsh-sharma-848560230/**
 
