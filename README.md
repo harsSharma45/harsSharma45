@@ -33,7 +33,3 @@
 
 [![An image of @harssharma45's Holopin badges](https://holopin.me/harssharma45)](https://holopin.io/@harssharma45)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harssharma45&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harssharma45&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harssharma45&" alt="GitHub Streak" /></p>
