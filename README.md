@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harssharma45&label=Profile%20views&color=0e75b6&style=flat" alt="harssharma45" /> </p>
 
-- 🌱 I’m currently learning React.js & Express.js.
+- 🌱 I’m currently learning React.js.
 
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/harsh-sharma-848560230/).
 
