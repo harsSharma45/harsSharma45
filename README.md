@@ -22,7 +22,7 @@
 
 - Programming Languages
 
-  ![programming-languages](https://skillicons.dev/icons?i=cpp,java,python,css,javascript,c)
+  ![programming-languages](https://skillicons.dev/icons?i=cpp,python,css,javascript,c)
 
 - Frameworks and Libraries
 
@@ -37,12 +37,6 @@
 
   ![technologies](https://skillicons.dev/icons?i=git)
   
-
-- Operating Systems
-
-  ![tools](https://skillicons.dev/icons?i=ubuntu,kali,windows)
-</p>
-![most-used-languages](https://github-readme-stats.vercel.app/api/top-langs?username=harsSharma45&show_icons=true&locale=en&layout=compact&theme=dark)
 
 [![An image of @harssharma45's Holopin badges](https://holopin.me/harssharma45)](https://holopin.io/@harssharma45)
 
