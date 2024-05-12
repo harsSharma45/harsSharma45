@@ -22,7 +22,7 @@
 
 - Programming Languages
 
-  ![programming-languages](https://skillicons.dev/icons?i=cpp,python,css,javascript,c)
+  ![programming-languages](https://skillicons.dev/icons?i=cpp,java,python,css,javascript,c)
 
 - Frameworks and Libraries
 
