@@ -17,7 +17,6 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   ### Skills
 
@@ -31,7 +30,7 @@
 
 - Tools
 
-  ![tools](https://skillicons.dev/icons?i=vscode,sublimetext,github)
+  ![tools](https://skillicons.dev/icons?i=vscode,sublime,github)
 
 
 - Technologies
