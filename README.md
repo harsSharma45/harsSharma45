@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=harssharma45&label=Profile%20views&color=0e75b6&style=flat" alt="harssharma45" />
 </p>
 
-- 🌱 Currently learning React.js.
+- 🌱 Currently learning NodeJs.
 
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/harsh-sharma-848560230/).
 
