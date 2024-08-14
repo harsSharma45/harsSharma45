@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harsh Sharma</h1>
+
 <h3 align="center">Honing Competitive Programming & Web Development Skills.</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
 
