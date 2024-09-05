@@ -1,12 +1,9 @@
 
-<h3 align="center">Honing Competitive Programming & Web Development Skills.</h3>
+<h3 align="center">Part time coder, full time procrastinator</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=harssharma45&label=Profile%20views&color=0e75b6&style=flat" alt="harssharma45" />
-</p>
 
-- 🌱 Currently learning NodeJs.
+- 🌱 Currently learning Backend Developement.
 
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/harsh-sharma-848560230/).
 
@@ -38,6 +35,5 @@
   ![technologies](https://skillicons.dev/icons?i=git)
   
 
-[![An image of @harssharma45's Holopin badges](https://holopin.me/harssharma45)](https://holopin.io/@harssharma45)
 
 
