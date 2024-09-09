@@ -1,9 +1,7 @@
-
 <h3 align="center">Part time coder, full time procrastinator</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
 
-
-- 🌱 Currently learning Backend Developement.
+- 🌱 Currently learning Backend Development.
 
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/harsh-sharma-848560230/).
 
@@ -23,17 +21,12 @@
 
 - Frameworks and Libraries
 
-  ![frameworks-and-libraries](https://skillicons.dev/icons?i=react,nodejs)
+  ![frameworks-and-libraries](https://skillicons.dev/icons?i=react,nodejs,express)
 
 - Tools
 
-  ![tools](https://skillicons.dev/icons?i=vscode,sublime,github)
-
+  ![tools](https://skillicons.dev/icons?i=vscode,sublime,github,git,linux,bash)
 
 - Technologies
 
-  ![technologies](https://skillicons.dev/icons?i=git)
-  
-
-
-
+  ![technologies](https://skillicons.dev/icons?i=mongodb)
