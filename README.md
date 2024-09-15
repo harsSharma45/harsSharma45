@@ -21,12 +21,10 @@
 
 - Frameworks and Libraries
 
-  ![frameworks-and-libraries](https://skillicons.dev/icons?i=react,nodejs,express)
+  ![frameworks-and-libraries](https://skillicons.dev/icons?i=react,nodejs)
 
 - Tools
 
   ![tools](https://skillicons.dev/icons?i=vscode,sublime,github,git,linux,bash)
 
-- Technologies
 
-  ![technologies](https://skillicons.dev/icons?i=mongodb)
