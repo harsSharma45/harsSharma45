@@ -1,8 +1,6 @@
 <h3 align="center">Part time coder, full time procrastinator</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
 
-- 🌱 Currently learning Backend Development.
-
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/harsh-sharma-848560230/).
 
 <h3 align="left">Connect with me:</h3>
@@ -12,8 +10,7 @@
   </a>
 </p>
 
-<p align="left">
-  ### Skills
+### Skills
 
 - Programming Languages
 
@@ -25,6 +22,4 @@
 
 - Tools
 
-  ![tools](https://skillicons.dev/icons?i=vscode,sublime,github,git,linux,bash)
-
-
+  ![tools](https://skillicons.dev/icons?i=vscode,sublime,github,git,linux)
