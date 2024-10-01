@@ -1,7 +1,6 @@
 <h3 align="center">Part time coder, full time procrastinator</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
 
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/harsh-sharma-848560230/).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
