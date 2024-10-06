@@ -3,7 +3,7 @@
 
 ### Profile Views
 
-![Profile views](https://komarev.com/ghpvc/?username=your-github-username&color=blue&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=harsSharma45&color=blue&style=flat-square)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
