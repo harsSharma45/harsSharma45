@@ -1,6 +1,11 @@
 <h3 align="center">Part time coder, full time procrastinator</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
 
+### Profile Views
+
+![Profile views](https://komarev.com/ghpvc/?username=your-github-username&color=blue&style=flat-square)
+
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/harsh-sharma-848560230/" target="_blank">
@@ -24,9 +29,5 @@
 
 ---
 
-### Profile Views
 
-![Profile views](https://komarev.com/ghpvc/?username=your-github-username&color=blue&style=flat-square)
-
----
 
