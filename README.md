@@ -1,33 +1,71 @@
 <h3 align="center">Part time coder, full time procrastinator</h3>
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
 
+</br>
 
-![Profile views](https://komarev.com/ghpvc/?username=harsSharma45&style=flat-square)
+<div align="center">
+  <img alt="coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
+</div>
 
+</br>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harsSharma45&style=for-the-badge&color=gray&label=Profile+views&labelColor=black" alt="Visitors" />
+</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+</br>
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
   <a href="https://linkedin.com/in/harsh-sharma-848560230/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img align="center" src="https://img.icons8.com/?size=100&id=8808&format=png&color=000000" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
+
+</br>
+
+<h3 align="center">Skills</h3>
+
+<h4 align="center">Programming Languages</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,css,javascript,c" alt="programming-languages" />
+</p>
+
+<h4 align="center">Frameworks and Libraries</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs" alt="frameworks-and-libraries" />
+</p>
+
+<h4 align="center">Tools</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,sublime,github,git,linux" alt="tools" />
+</p>
+
+<h4 align="center">Databases</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="database" />
+</p>
+
 ---
-### Skills
+<br>
 
-- Programming Languages
+<table width="100%" align="center">
+<tr>
+<td>
+  <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harsSharma45&theme=radical" alt="Profile Summary">
+</td>
+</tr>
+</table>
 
-  ![programming-languages](https://skillicons.dev/icons?i=cpp,python,css,javascript,c)
+<table width="100%" align="center">
+<tr>
+<td>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=harsSharma45&show_icons=true&locale=en&theme=radical" alt="GitHub Stats"/>
+</td>
+<td>
+  <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=harsSharma45&theme=radical" alt="Streak Stats"/>
+</td>
+</tr>
+</table>
+<br>
 
-- Frameworks and Libraries
-
-  ![frameworks-and-libraries](https://skillicons.dev/icons?i=react,nodejs)
-
-- Tools
-
-  ![tools](https://skillicons.dev/icons?i=vscode,sublime,github,git,linux)
-
----
-
-
-
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
