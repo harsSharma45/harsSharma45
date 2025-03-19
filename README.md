@@ -1,2 +1,2 @@
-20 | Cs' | avg programmer, bad chess player
+20, CS | I hide behind my code as a form of protection.
 
