@@ -1,2 +1,2 @@
-20, CS | mid coder, awful at chess.
+20, CS | mid programmer, awful at chess.
 
